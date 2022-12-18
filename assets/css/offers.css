@@ -1,0 +1,24 @@
+.cta {
+    background-image: url(../images/cta-bg.png);
+    background-color: var(--mint-cream);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 50px 20px;}
+
+    a:link, a:visited {
+        background-color: green;  
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        
+      }
+      
+      a:hover, a:active {
+        cursor: pointer;
+        background-color:  green; 
+        
+      }
